@@ -1,7 +1,7 @@
 <?php
 $raww = "https://raw.githubusercontent.com/zeroxipinder/amp/main/zr.txt"; // link txt raw kw brand
-$utama = "https://fik.borobudur.ac.id/product"; // hapus tanda /?= , pramater (pemanggil) dan nama brand contoh nya https://aempe.id/baru/?daftar=slot123 jadi https://aempe.id/baru
-$prmdo = "varian"; // pramater untuk memanggil brand di LP contoh jika pake LP pake id akan jadi https://ling-lp.ac.id/baru/?id=slot123
+$utama = "https://dishub.bone.go.id/hitam"; // hapus tanda /?= , pramater (pemanggil) dan nama brand contoh nya https://aempe.id/baru/?daftar=slot123 jadi https://aempe.id/baru
+$prmdo = "detail"; // pramater untuk memanggil brand di LP contoh jika pake LP pake id akan jadi https://ling-lp.ac.id/baru/?id=slot123
 $parameterName = "daftar"; // pramater untuk memanggil brand di amp contoh jika pake mau pake amp id akan jadi https://ling-lp.ac.id/baru/?id=slot123
 $reff = "https://filmbagus.org/sb77";
 function feedback404()
